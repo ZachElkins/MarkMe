@@ -16,4 +16,4 @@ Markdown parser experiment
 |`~~strike~~`|~~strike~~|`<del>strike</del>`|
 |`~strike~`|~strike~|`<del>strike</del>`|
 |`---`|<hr/>|`<hr/>`|
-|`[hyperlink](https://google.com)`|[hyperlink](https://google.com)|`<hr/>`|
+|`[hyperlink](https://google.com)`|[hyperlink](https://google.com)|`<a href="https://google.com">hyperlink</a>`|
